@@ -31,3 +31,11 @@ A AWS foi pioneira na popularização da computação em nuvem, ajudando empresa
     > [Aplicação de exemplo com Jenknsfile na raiz do projeto.](https://github.com/wesleysbmartins/node_with_jenkins)
 
     > [Documentação para criar seu EC2.](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html?icmpid=docs_ec2_console)
+
+- **Lambda**: O AWS Lambda é um serviço de computação serverless que permite executar código sem a necessidade de gerenciar servidores.
+    Ele segue um modelo baseado em eventos, onde o código é executado em resposta a eventos específicos, como mudanças em dados em um bucket do Amazon S3, atualizações em um banco de dados DynamoDB, mensagens em filas (SQS), solicitações HTTP via API Gateway, entre outros.
+
+    > [Aplicações de exemplo utilizando NodeJS e Golang.](https://github.com/wesleysbmartins/aws_lambda)
+    
+    > [Documentação do AWS Lambda.](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/welcome.html)
+    
